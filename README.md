@@ -17,14 +17,16 @@ A machine learning project that predicts income categories (`<=50K` or `>50K`) u
 - Model training and evaluation
 - Confusion matrix visualizations
 - FastAPI prediction endpoints for all four models
-## Project Structureapp.py
+
+<pre>
+## Project Structurejavascriptapp.py
 src/adult_income/
   ├── data.py
   ├── preprocessing.py
   ├── train.py
   └── tune.py
 models/
-frontend/
+frontend/</pre>
 
 ## Run the API
 
